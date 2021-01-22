@@ -1,0 +1,44 @@
+body {
+    
+    
+    margin-bottom:100px;
+    margin-top: 40px;
+    margin-right: 70px;
+    margin-left: 70px;
+   
+    width: 700px;
+
+    font-family: "Garamond", serif;
+}
+
+
+
+
+p {
+    font-size: 16px;
+    
+    
+}
+
+
+
+h1 {
+    font-size: 30px;
+}
+
+
+
+
+
+h3 {
+    padding-top: 20px;
+    
+    font-size: 20px;   
+}
+
+
+
+
+ul {
+    font-size: 16px;
+}
